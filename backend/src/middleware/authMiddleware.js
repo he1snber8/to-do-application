@@ -1,0 +1,1 @@
+// backend/src/middleware/authMiddleware.js\nmodule.exports = (req, res, next) => {\n  // TODO: verify JWT from headers\n  next();\n};
