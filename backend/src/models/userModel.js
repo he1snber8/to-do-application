@@ -1,0 +1,1 @@
+// backend/src/models/userModel.js\nconst pool = require('../db');\n// TODO: implement User model functions\nmodule.exports = { /* auth methods */ };
