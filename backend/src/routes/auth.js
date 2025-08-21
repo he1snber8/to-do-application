@@ -1,0 +1,1 @@
+// backend/src/routes/auth.js\nconst express = require('express');\nconst router = express.Router();\n// TODO: implement signup & login routes using JWT\nmodule.exports = router;
