@@ -1,0 +1,1 @@
+// backend/src/db.js\nconst { Pool } = require('pg');\nconst pool = new Pool({ connectionString: process.env.DATABASE_URL });\nmodule.exports = pool;
