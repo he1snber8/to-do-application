@@ -1,0 +1,1 @@
+// backend/package.json\n{\n  \"name\": \"todo-backend\",\n  \"version\": \"1.0.0\",\n  \"main\": \"src/app.js\",\n  \"scripts\": {\"start\": \"node src/app.js\"},\n  \"dependencies\": {\"express\": \"^4.17.1\", \"pg\": \"^8.5.1\", \"jsonwebtoken\": \"^8.5.1\"}\n}
