@@ -1,0 +1,1 @@
+// backend/src/app.js\nconst express = require('express');\nconst app = express();\napp.use(express.json());\n// TODO: add routes\napp.listen(3000, () => console.log('Server running on port 3000'));
