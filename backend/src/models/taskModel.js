@@ -1,0 +1,1 @@
+// backend/src/models/taskModel.js\nconst pool = require('../db');\n// TODO: implement Task model functions\nmodule.exports = { /* CRUD methods */ };
